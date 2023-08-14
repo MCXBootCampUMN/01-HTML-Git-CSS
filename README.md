@@ -1,8 +1,5 @@
 # 01-HTML-Git-CSS
-Student Introduction
-
-
-# 01-HTML-Git-CSS
+## Student Introduction
 
 Simple site with student introduction
 
@@ -24,6 +21,7 @@ Student Bio
 ## Webite link 💻
 
 [github-Project](https://github.com/MCXBootCampUMN/01-HTML-Git-CSS)
+<br>
 [Deployed-link](https://mcxbootcampumn.github.io/01-HTML-Git-CSS/)
 
 © MCX, Student, @ University of Minnesota BootCamp All Rights Reserved.
