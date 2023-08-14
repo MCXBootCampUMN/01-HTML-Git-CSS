@@ -3,9 +3,9 @@
 
 Simple site with student introduction
 
-* Header
+Header
 
-Student Bio
+- Student Bio
 
 ## Sections
 
