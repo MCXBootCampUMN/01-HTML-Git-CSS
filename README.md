@@ -25,3 +25,5 @@ Header
 [Deployed-link](https://mcxbootcampumn.github.io/01-HTML-Git-CSS/)
 
 © MCX, Student, @ University of Minnesota BootCamp All Rights Reserved.
+
+### Thank you
