@@ -1,5 +1,6 @@
-# HTML-Git-CSS
-## Student Introduction
+# Student Introduction
+
+## HTML-Git-CSS
 
 Simple site with student introduction
 
