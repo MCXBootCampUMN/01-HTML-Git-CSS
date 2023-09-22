@@ -20,7 +20,7 @@ Header
 
 ## Webite link 💻
 
-[github-Project](https://github.com/MCXBootCampUMN/HTML-Git-CSS)
+[Github-Project](https://github.com/MCXBootCampUMN/HTML-Git-CSS)
 <br>
 [Deployed-link](https://maxamed-ncx.github.io/HTML-Git-CSS/)
 
